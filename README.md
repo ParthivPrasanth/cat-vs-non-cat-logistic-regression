@@ -1,4 +1,4 @@
-# Cat vs Non-Cat Image Classification
+# Logistic Regression from scratch
 
 This project implements a binary image classifier using logistic regression built completely from scratch in NumPy. The model predicts whether a 64×64 RGB image contains a cat or not.
 
